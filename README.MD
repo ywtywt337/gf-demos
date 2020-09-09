@@ -50,3 +50,6 @@ This repo implements some demos using GoFrame.
   default | default | :8199   | ALL    | /user/signup        | github.com/gogf/gf-demos/app/api/user.(*Controller).SignUp        | middleware.CORS                  
 |---------|---------|---------|--------|---------------------|-------------------------------------------------------------------|---------------------------------|
 ```
+
+### testing content
+
