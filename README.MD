@@ -1,3 +1,5 @@
+#这是一个测试
+
 # GoFrame Demos
 
 This repo implements some demos using GoFrame.
@@ -37,24 +39,4 @@ This repo implements some demos using GoFrame.
 |---------|---------|---------|--------|---------------------|-------------------------------------------------------------------|---------------------------------|
   default | default | :8199   | ALL    | /user/checkpassport | github.com/gogf/gf-demos/app/api/user.(*Controller).CheckPassport | middleware.CORS                  
 |---------|---------|---------|--------|---------------------|-------------------------------------------------------------------|---------------------------------|
-  default | default | :8199   | ALL    | /user/issignedin    | github.com/gogf/gf-demos/app/api/user.(*Controller).IsSignedIn    | middleware.CORS                  
-|---------|---------|---------|--------|---------------------|-------------------------------------------------------------------|---------------------------------|
-  default | default | :8199   | ALL    | /user/profile       | github.com/gogf/gf-demos/app/api/user.(*Controller).Profile       | middleware.CORS                  
-|---------|---------|---------|--------|---------------------|-------------------------------------------------------------------|---------------------------------|
-  default | default | :8199   | ALL    | /user/profile       | github.com/gogf/gf-demos/app/api/user.(*Controller).Profile       | middleware.CORS,middleware.Auth  
-|---------|---------|---------|--------|---------------------|-------------------------------------------------------------------|---------------------------------|
-  default | default | :8199   | ALL    | /user/signin        | github.com/gogf/gf-demos/app/api/user.(*Controller).SignIn        | middleware.CORS                  
-|---------|---------|---------|--------|---------------------|-------------------------------------------------------------------|---------------------------------|
-  default | default | :8199   | ALL    | /user/signout       | github.com/gogf/gf-demos/app/api/user.(*Controller).SignOut       | middleware.CORS                  
-|---------|---------|---------|--------|---------------------|-------------------------------------------------------------------|---------------------------------|
-  default | default | :8199   | ALL    | /user/signup        | github.com/gogf/gf-demos/app/api/user.(*Controller).SignUp        | middleware.CORS                  
-|---------|---------|---------|--------|---------------------|-------------------------------------------------------------------|---------------------------------|
-```
-
-### GoFrame Repository
-* [https://github.com/gogf/gf](https://github.com/gogf/gf)
-* [https://gitee.com/johng/gf](https://gitee.com/johng/gf)
-
-### GoFrame Home
-* [https://goframe.org](https://goframe.org)
-
+  default | default | :8199   | ALL    | /user/issignedin    | github.com/gogf/gf-demos/app/api/
