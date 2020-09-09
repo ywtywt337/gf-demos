@@ -51,10 +51,8 @@ This repo implements some demos using GoFrame.
 |---------|---------|---------|--------|---------------------|-------------------------------------------------------------------|---------------------------------|
 ```
 
-# GoFrame Sites
-<div align="center">
-<img src="https://goframe.org/logo.png" width="200"/>
-</div>
+### testing content
+
 
 ### GoFrame Repository
 * [https://github.com/gogf/gf](https://github.com/gogf/gf)
