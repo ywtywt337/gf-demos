@@ -62,3 +62,5 @@ This repo implements some demos using GoFrame.
 
 ### GoFrame Home
 * [https://goframe.org](https://goframe.org)
+
+### master content
